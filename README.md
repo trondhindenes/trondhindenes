@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello I'm Trond 👋
+
+I'm currently doing consulting through my own company, **[kodefolk.no]**
+
+I know a thing or two about AWS, Kubernetes, Python, CDK/CDKTF, Ansible, Dapr and many others
+
+
+
 
 <!--
 **trondhindenes/trondhindenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
