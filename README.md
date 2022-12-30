@@ -1,6 +1,6 @@
 ### Hello I'm Trond 👋
 
-I'm currently doing consulting through my own company, **[kodefolk.no]**
+I'm currently doing consulting through my own company, **kodefolk.no**
 
 I know a thing or two about AWS, Kubernetes, Python, CDK/CDKTF, Ansible, Dapr and many others
 
