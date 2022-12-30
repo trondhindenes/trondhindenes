@@ -4,7 +4,7 @@ I'm currently doing consulting through my own company, **kodefolk.no**
 
 I know a thing or two about AWS, Kubernetes, Python, CDK/CDKTF, Ansible, Dapr and many others
 
-From time to time I write some words on [https://hindenes.com/]
+From time to time I write some words on https://hindenes.com/
 
 
 
